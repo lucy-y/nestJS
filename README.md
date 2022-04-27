@@ -1,6 +1,7 @@
 ## Reference
 - https://docs.nestjs.com/
 - https://wikidocs.net/book/7059
+- https://jakekwak.gitbook.io/nestjs/
 
 ## nest install
 
