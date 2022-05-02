@@ -6,10 +6,15 @@
 ## nest install
 
 ```
+// nestjs 설치
 $ npm i -g @nestjs/cli
+// 프로젝트 생성
 $ nest new project-name
+// 컨트롤러 생성
+$ nest g controller cats
 ```
 
+## 
 ---
 
 ## Description
